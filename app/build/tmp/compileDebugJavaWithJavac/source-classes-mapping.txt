@@ -1,0 +1,2 @@
+com/apps/whatsappui/BuildConfig.java
+ com.apps.whatsappui.BuildConfig
