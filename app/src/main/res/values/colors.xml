@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="wa">#DADADA</color>
     <color name="tab_color">#0A7850</color>
+    <color name="grey">#808080</color>
+    <color name="bluectg">#34b7f1</color>
 </resources>

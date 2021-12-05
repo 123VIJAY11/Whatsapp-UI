@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         val adapter = FragmentAdapter(supportFragmentManager, lifecycle)
 
         viewPager2.adapter = adapter
+        viewPager2.setCurrentItem(1, true)
         TabLayoutMediator(tabLayout, viewPager2) { tab, position ->
             when (position) {
                 0 -> {
