@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "outputFile": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-3\\18d14ff6081cdd4d7e524a53938b4251\\transformed\\material-1.4.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "/home/krypton/.gradle/caches/transforms-3/18d14ff6081cdd4d7e524a53938b4251/transformed/material-1.4.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

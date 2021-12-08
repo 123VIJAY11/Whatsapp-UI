@@ -2,6 +2,8 @@ com/apps/whatsappui/BuildConfig.java
  com.apps.whatsappui.BuildConfig
 com/apps/whatsappui/databinding/ActivityMainBinding.java
  com.apps.whatsappui.databinding.ActivityMainBinding
+com/apps/whatsappui/databinding/MyCallsItemBinding.java
+ com.apps.whatsappui.databinding.MyCallsItemBinding
 com/apps/whatsappui/databinding/ActivitySplashScreenBinding.java
  com.apps.whatsappui.databinding.ActivitySplashScreenBinding
 com/apps/whatsappui/databinding/MyChatsItemBinding.java

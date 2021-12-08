@@ -1,106 +1,118 @@
 [
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chat.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable_action_bar.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\drawable\\action_bar.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_round_logo.png.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/round_logo.png"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera_grey.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\drawable\\ic_camera_grey.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\font_opensans_bold.ttf.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\font\\opensans_bold.ttf"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_ic_camera_grey.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/ic_camera_grey.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_status.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\fragment_status.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_calls.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_ic_baseline_chat_24.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/ic_baseline_chat_24.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_fragment_cam.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/fragment_cam.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_whatsapp.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/whatsapp.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_ic_baseline_call_24.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/ic_baseline_call_24.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_my_chats_item.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\my_chats_item.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_fragment_calls.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/fragment_calls.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/font_opensans_bold.ttf.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/font/opensans_bold.ttf"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_logo.png.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\drawable\\round_logo.png"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_my_calls_item.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/my_calls_item.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_my_chats_item.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/my_chats_item.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_cam.xml.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\layout\\fragment_cam.xml"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/drawable_action_bar.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/drawable/action_bar.xml"
     },
     {
-        "merged": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\build\\intermediates\\merged_res\\debug\\drawable_whatsapp.webp.flat",
-        "source": "E:\\HAULIK\\SEMESTER 3\\Prak. Pemrograman Piranti Bergerak 1\\KOTLINREP0\\WhatsApp-UI\\app\\src\\main\\res\\drawable\\whatsapp.webp"
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_fragment_status.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/fragment_status.xml"
+    },
+    {
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/layout_fragment_chat.xml.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/krypton/Downloads/WhatsApp-UI-main/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/krypton/Downloads/WhatsApp-UI-main/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     }
 ]

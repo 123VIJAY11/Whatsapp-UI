@@ -79,4 +79,6 @@
         android:layout_below="@id/txtFriendText"
         android:layout_toRightOf="@id/pp1"/>
 
+
+
 </RelativeLayout>

@@ -1798,6 +1798,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_call_24
+drawable ic_baseline_chat_24
 drawable ic_camera_grey
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -1957,6 +1959,7 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
+id chats
 id checkbox
 id checked
 id chip
@@ -2192,6 +2195,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rv_listMycalls
 id rv_listMychats
 id save_non_transition_alpha
 id save_overlay_view
@@ -2306,6 +2310,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtDate
 id txtFriendCtg
 id txtFriendCtgg
 id txtFriendName
@@ -2465,6 +2470,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout my_calls_item
 layout my_chats_item
 layout notification_action
 layout notification_action_tombstone
