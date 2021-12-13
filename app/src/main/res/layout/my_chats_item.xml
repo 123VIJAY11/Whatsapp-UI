@@ -6,62 +6,46 @@
     android:layout_margin="5dp"
     android:padding="7dp">
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/pp1"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginLeft="0dp"
-        android:src="@drawable/whatsapp"
+        android:src="@drawable/gambar"
         android:layout_alignParentLeft="true"/>
+
+    <ImageView
+        android:id="@+id/check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtFriendNameChat"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@id/pp1"
+        android:src="@drawable/ic_double_check_blue"
+        android:layout_marginRight="6dp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/txtFriendName"
+        android:id="@+id/txtFriendNameChat"
         android:text="Nama"
         android:textStyle="bold"
         android:textSize="18sp"
-        android:layout_marginTop="5dp"
         android:textColor="@color/black"
         android:layout_toRightOf="@id/pp1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/txtFriendText"
+        android:id="@+id/txtFriendTextChat"
         android:text="Chat"
         android:textStyle="normal"
         android:textSize="16sp"
-        android:layout_marginTop="6dp"
+        android:layout_marginTop="3dp"
         android:textColor="@color/grey"
-        android:layout_toRightOf="@id/txtFriendCtg"
-        android:layout_below="@id/txtFriendName" />
-
-    <TextView
-        android:layout_width="30dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtFriendCtg"
-        android:text="Ctg"
-        android:textStyle="normal"
-        android:textSize="16sp"
-        android:layout_marginTop="6dp"
-        android:textColor="@color/grey"
-        android:layout_below="@id/txtFriendName"
-        android:layout_toRightOf="@id/pp1"/>
-
-    <TextView
-        android:layout_width="30dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtFriendCtgg"
-        android:text="Ctg"
-        android:textStyle="normal"
-        android:textSize="16sp"
-        android:layout_marginTop="6dp"
-        android:textColor="@color/bluectg"
-        android:layout_below="@id/txtFriendName"
-        android:layout_toRightOf="@id/pp1"/>
-
+        android:layout_toRightOf="@id/check"
+        android:layout_below="@id/txtFriendNameChat" />
 
     <TextClock
         android:layout_width="wrap_content"
@@ -69,14 +53,14 @@
         android:layout_alignParentRight="true"
         android:text="waktu"
         android:textColor="@color/grey"
-        android:layout_marginTop="5dp"/>
+        android:layout_marginTop="3dp"/>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="0.5dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="10dp"
         android:background="@color/grey"
-        android:layout_below="@id/txtFriendText"
+        android:layout_below="@id/txtFriendTextChat"
         android:layout_toRightOf="@id/pp1"/>
 
 

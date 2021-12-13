@@ -17,22 +17,22 @@ class callsFragment : Fragment() {
     private fun simulasiDataCalss(){
         listCalls= ArrayList()
         listCalls.add(
-            MyCalls("Mokamu Aku", "Hari Ini")
+            MyCalls("Mokamu Aku", "Today,", R.drawable.pp4, R.drawable.ic_call_made_green)
         )
         listCalls.add(
-            MyCalls("Kharis Petir", "Kemarin")
+            MyCalls("Kharis Petir", "Today,", R.drawable.pp3, R.drawable.ic_call_made_red)
         )
         listCalls.add(
-            MyCalls("Malinda AHM", "Wingi")
+            MyCalls("Malinda AHM", "Yesterday,", R.drawable.pp2, R.drawable.ic_call_received_green)
         )
         listCalls.add(
-            MyCalls("Idzam Muhammad", "Bien")
+            MyCalls("Idzam Muhammad", "Yesterday,", R.drawable.pp5, R.drawable.ic_call_received_red)
         )
         listCalls.add(
-            MyCalls("Fahrul Top Topan", "Bien")
+            MyCalls("Fahrul Top Topan", "December 2,", R.drawable.pp6, R.drawable.ic_call_made_green)
         )
         listCalls.add(
-            MyCalls("Engga PP", "Hari Ini")
+            MyCalls("Engga PP", "November 28,", R.drawable.pp1, R.drawable.ic_call_received_red)
         )
     }
 

@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     tools:context=".statusFragment">
 
-</LinearLayout>
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/pp2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/gambar"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:id="@+id/my_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My status"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_toRightOf="@id/pp2"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap to add status update"
+        android:layout_toRightOf="@id/pp2"
+        android:layout_below="@id/my_status"/>
+
+    <TextView
+        android:id="@+id/recent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recent updates"
+        android:layout_below="@id/pp2"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="15dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rv_listMyStatus"
+        android:layout_margin="16dp"
+        android:layout_below="@id/recent"/>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="status"
+            android:src="@drawable/ic_camera_grey"
+            android:backgroundTint="@color/tab_color"/>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</RelativeLayout>

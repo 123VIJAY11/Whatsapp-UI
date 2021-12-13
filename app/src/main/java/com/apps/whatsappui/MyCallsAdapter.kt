@@ -8,8 +8,9 @@ import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.extensions.LayoutContainer
 import kotlinx.android.synthetic.main.my_calls_item.*
 import kotlinx.android.synthetic.main.my_chats_item.*
-import kotlinx.android.synthetic.main.my_chats_item.txtFriendName
-import kotlinx.android.synthetic.main.my_chats_item.txtFriendText
+import kotlinx.android.synthetic.main.my_chats_item.txtFriendNameChat
+import kotlinx.android.synthetic.main.my_chats_item.txtFriendTextChat
+import kotlinx.android.synthetic.main.my_chats_item.pp1 as pp11
 
 class MyCallsAdapter (private val context: Context, private val items: ArrayList<MyCalls>):
     RecyclerView.Adapter<MyCallsAdapter.ViewHolder>() {
@@ -28,8 +29,10 @@ class MyCallsAdapter (private val context: Context, private val items: ArrayList
     class ViewHolder(override val containerView: View):
         RecyclerView.ViewHolder(containerView), LayoutContainer {
         fun bindItem(item: MyCalls) {
-            txtFriendName.text=item.nama
-            txtDate.text=item.tanggal
+            txtFriendNameCall.text=item.nama
+            txtDateCall.text = item.tanggal
+            this.pp.setImageResource(item.gambar)
+            this.arrow.setImageResource(item.panah)
         }
     }
 }

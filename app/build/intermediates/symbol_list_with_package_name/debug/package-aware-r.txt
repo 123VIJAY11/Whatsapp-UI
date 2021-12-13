@@ -243,6 +243,11 @@ attr circularflow_defaultAngle
 attr circularflow_defaultRadius
 attr circularflow_radiusInDP
 attr circularflow_viewCenter
+attr civ_border_color
+attr civ_border_overlay
+attr civ_border_width
+attr civ_circle_background_color
+attr civ_fill_color
 attr clearsTag
 attr clickAction
 attr clockFaceBackgroundColor
@@ -1798,10 +1803,19 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gambar
+drawable ic_add_call
 drawable ic_baseline_call_24
 drawable ic_baseline_chat_24
+drawable ic_call_made_green
+drawable ic_call_made_red
+drawable ic_call_received_green
+drawable ic_call_received_red
 drawable ic_camera_grey
+drawable ic_check
 drawable ic_clock_black_24dp
+drawable ic_double_check_blue
+drawable ic_double_check_grey
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1842,6 +1856,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pp1
+drawable pp2
+drawable pp3
+drawable pp4
+drawable pp5
+drawable pp6
 drawable round_logo
 drawable test_custom_background
 drawable test_level_drawable
@@ -1931,6 +1951,7 @@ id animateToStart
 id antiClockwise
 id anticipate
 id arc
+id arrow
 id asConfigured
 id async
 id auto
@@ -1951,6 +1972,7 @@ id bounceStart
 id buttonPanel
 id cache_measures
 id callMeasure
+id calls
 id cancel_action
 id cancel_button
 id carryVelocity
@@ -1960,6 +1982,7 @@ id center_vertical
 id chain
 id chains
 id chats
+id check
 id checkbox
 id checked
 id chip
@@ -2146,6 +2169,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id my_status
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2182,11 +2206,14 @@ id percent
 id pin
 id position
 id postLayout
+id pp
 id pp1
+id pp2
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id recent
 id rectangles
 id reverseSawtooth
 id right
@@ -2195,6 +2222,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rv_listMyStatus
 id rv_listMycalls
 id rv_listMychats
 id save_non_transition_alpha
@@ -2253,6 +2281,7 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id status
 id status_bar_latest_event_content
 id stop
 id stretch
@@ -2310,11 +2339,12 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id txtDate
-id txtFriendCtg
-id txtFriendCtgg
-id txtFriendName
-id txtFriendText
+id txtDateCall
+id txtDateStatus
+id txtFriendNameCall
+id txtFriendNameChat
+id txtFriendNameStatus
+id txtFriendTextChat
 id unchecked
 id uniform
 id unlabeled
@@ -2472,6 +2502,7 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout my_calls_item
 layout my_chats_item
+layout my_status_item
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -2510,6 +2541,9 @@ menu example_menu
 menu example_menu2
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap pp
+mipmap pp_foreground
+mipmap pp_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -3377,6 +3411,7 @@ styleable Carousel carousel_backwardTransition carousel_emptyViewsBehavior carou
 styleable CheckedTextView android_checkMark checkMarkCompat checkMarkTint checkMarkTintMode
 styleable Chip android_textAppearance android_textSize android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
+styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color civ_fill_color
 styleable CircularProgressIndicator indicatorDirectionCircular indicatorInset indicatorSize
 styleable ClockFaceView clockFaceBackgroundColor clockNumberTextColor
 styleable ClockHandView clockHandColor materialCircleRadius selectorSize

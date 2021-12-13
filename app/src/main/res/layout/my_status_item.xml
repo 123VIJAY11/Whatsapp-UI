@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    android:padding="7dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/pp2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="0dp"
+        app:civ_border_width="3dp"
+        app:civ_border_color="@color/tab_color"
+        android:src="@drawable/gambar"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtFriendNameStatus"
+        android:text="Nama"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_toRightOf="@id/pp2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtDateStatus"
+        android:text="Tanggal"
+        android:textStyle="normal"
+        android:textSize="16sp"
+        android:layout_marginTop="2dp"
+        android:textColor="@color/grey"
+        android:layout_toRightOf="@id/pp2"
+        android:layout_below="@id/txtFriendNameStatus"
+        />
+
+    <TextClock
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="waktu"
+        android:textStyle="normal"
+        android:textSize="16sp"
+        android:textColor="@color/grey"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="2dp"
+        android:layout_toRightOf="@id/txtDateStatus"
+        android:layout_below="@id/txtFriendNameStatus"/>
+
+</RelativeLayout>

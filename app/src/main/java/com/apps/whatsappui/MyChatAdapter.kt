@@ -25,10 +25,10 @@ class MyChatAdapter(private val context: Context, private val items: ArrayList<M
     class ViewHolder(override val containerView: View):
         RecyclerView.ViewHolder(containerView), LayoutContainer {
         fun bindItem(item:MyChat) {
-            txtFriendName.text=item.nama
-            txtFriendText.text=item.chatnya
-            txtFriendCtg.text=item.centang
-            txtFriendCtgg.text=item.centangb
+            txtFriendNameChat.text=item.nama
+            txtFriendTextChat.text=item.chatnya
+            this.check.setImageResource(item.centang)
+            this.pp1.setImageResource(item.profil)
         }
     }
 }
