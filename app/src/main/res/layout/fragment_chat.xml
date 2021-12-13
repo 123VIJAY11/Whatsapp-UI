@@ -14,7 +14,7 @@
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="match_parent">
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/chats"
@@ -25,8 +25,8 @@
             android:layout_marginBottom="16dp"
             android:contentDescription="chats"
             android:src="@drawable/ic_baseline_chat_24"
-            app:backgroundTint="@color/tab_color"
-            app:rippleColor="#FFFCFC" />
+            app:rippleColor="@color/tab_color"
+            android:backgroundTint="@color/tab_color"/>
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 

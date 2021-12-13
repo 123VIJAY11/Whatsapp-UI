@@ -16,22 +16,22 @@ class chatFragment : Fragment(){
         private fun simulasiDataChat(){
             listChat= ArrayList()
             listChat.add(
-                MyChat("Mokamu Aku", "Hai cantik :)", ".", "✔✔")
+                MyChat("Mokamu Aku", "Hai cantik :)", R.drawable.ic_double_check_blue, R.drawable.pp4)
             )
             listChat.add(
-                MyChat("Kharis Petir", "He lapo??",".","✔✔")
+                MyChat("Kharis Petir", "He lapo??", R.drawable.ic_double_check_blue, R.drawable.pp3)
             )
             listChat.add(
-                MyChat("Engga gpp", "Siap wes.. aman", "✔",".")
+                MyChat("Engga gpp", "Siap wes.. aman", R.drawable.ic_double_check_grey, R.drawable.pp1)
             )
             listChat.add(
-                MyChat("Fahroel Cimoel", "Lapo bro?", "✔✔", ".")
+                MyChat("Fahroel Cimoel", "Lapo bro?", R.drawable.ic_check, R.drawable.pp6)
             )
             listChat.add(
-                MyChat("Ijam Aja", "Ayo mabar!", "✔",".")
+                MyChat("Ijam Aja", "Ayo mabar!", R.drawable.ic_double_check_grey, R.drawable.pp5)
             )
             listChat.add(
-                MyChat("Malinda M", "Helehh preketek", "✔",".")
+                MyChat("Malinda M", "Helehh preketek", R.drawable.ic_check, R.drawable.pp2)
             )
         }
 

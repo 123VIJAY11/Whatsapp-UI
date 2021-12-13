@@ -1,41 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:layout_margin="5dp"
     android:padding="7dp">
 
-    <ImageView
-        android:id="@+id/pp1"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/pp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginLeft="0dp"
-        android:src="@drawable/whatsapp"
+        android:src="@drawable/gambar"
         android:layout_alignParentLeft="true"/>
+
+    <ImageView
+        android:id="@+id/arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtFriendNameCall"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@id/pp"
+        android:src="@drawable/ic_call_made_green"
+        android:layout_marginRight="6dp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/txtFriendName"
+        android:id="@+id/txtFriendNameCall"
         android:text="Nama"
         android:textStyle="bold"
         android:textSize="18sp"
-        android:layout_marginTop="5dp"
         android:textColor="@color/black"
-        android:layout_toRightOf="@id/pp1"/>
+        android:layout_toRightOf="@id/pp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/txtDate"
+        android:id="@+id/txtDateCall"
         android:text="Tanggal"
         android:textStyle="normal"
         android:textSize="16sp"
-        android:layout_marginTop="6dp"
+        android:layout_marginTop="2dp"
         android:textColor="@color/grey"
-        android:layout_toRightOf="@id/pp1"
-        android:layout_below="@id/txtFriendName"
+        android:layout_toRightOf="@id/arrow"
+        android:layout_below="@id/txtFriendNameCall"
         />
 
     <TextClock
@@ -46,16 +55,17 @@
         android:textSize="16sp"
         android:textColor="@color/grey"
         android:layout_marginLeft="4dp"
-        android:layout_marginTop="6dp"
-        android:layout_toRightOf="@id/txtDate"
-        android:layout_below="@id/txtFriendName"/>
+        android:layout_marginTop="2dp"
+        android:layout_toRightOf="@id/txtDateCall"
+        android:layout_below="@id/txtFriendNameCall"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/ic_baseline_call_24"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="15dp"/>
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/wa"/>
 
 
 </RelativeLayout>
