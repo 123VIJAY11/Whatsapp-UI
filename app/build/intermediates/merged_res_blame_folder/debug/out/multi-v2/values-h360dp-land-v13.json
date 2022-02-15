@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
+            "outputFile": "D:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LenKa\\.gradle\\caches\\transforms-3\\18d14ff6081cdd4d7e524a53938b4251\\transformed\\material-1.4.0\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
+                    "source": "C:\\Users\\mochk\\.gradle\\caches\\transforms-3\\354e107026ada8c9ed6d6f9c488f7dd8\\transformed\\material-1.4.0\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
