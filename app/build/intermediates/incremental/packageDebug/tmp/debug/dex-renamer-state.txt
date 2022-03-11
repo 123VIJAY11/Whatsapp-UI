@@ -1,12 +1,12 @@
-#Sun Dec 12 14:59:53 ICT 2021
+#Tue Feb 15 14:20:02 ICT 2022
 path.3=6/classes.dex
 path.2=1/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=E\:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.2=E\:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.1=E\:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=E\:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.3=D\:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.2=D\:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.1=D\:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

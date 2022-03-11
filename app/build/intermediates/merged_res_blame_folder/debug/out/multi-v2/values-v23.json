@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\PPB\\Aplikasi Kotlin\\WhatsApp-UI-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\HAULIK\\AndroidStudioProjects\\WhatsApp-UI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LenKa\\.gradle\\caches\\transforms-3\\18d14ff6081cdd4d7e524a53938b4251\\transformed\\material-1.4.0\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,320",
-                        "endLines": "5,9",
-                        "endColumns": "10,10",
-                        "endOffsets": "315,588"
-                    },
-                    "to": {
-                        "startLines": "53,57",
-                        "startColumns": "4,4",
-                        "startOffsets": "3674,3939",
-                        "endLines": "56,60",
-                        "endColumns": "10,10",
-                        "endOffsets": "3934,4207"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LenKa\\.gradle\\caches\\transforms-3\\8aaf698ef722fffc402a63f7386dac05\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\mochk\\.gradle\\caches\\transforms-3\\8b43dd152cdc13fa48418364c330abf8\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LenKa\\.gradle\\caches\\transforms-3\\678f8f90516713ab9a21055c8d2ba99f\\transformed\\appcompat-1.4.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\mochk\\.gradle\\caches\\transforms-3\\354e107026ada8c9ed6d6f9c488f7dd8\\transformed\\material-1.4.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,320",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "315,588"
+                    },
+                    "to": {
+                        "startLines": "53,57",
+                        "startColumns": "4,4",
+                        "startOffsets": "3674,3939",
+                        "endLines": "56,60",
+                        "endColumns": "10,10",
+                        "endOffsets": "3934,4207"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mochk\\.gradle\\caches\\transforms-3\\bc8c96a1b7aca043b0f9ea2a34f2c889\\transformed\\appcompat-1.4.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
